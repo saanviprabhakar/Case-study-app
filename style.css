@@ -1,0 +1,71 @@
+
+ body
+ {
+    font-family: 'Patrick Hand', cursive;
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(104, 142, 174);
+
+  
+ }
+p{
+    color: rgb(187, 160, 191);
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+span{
+    letter-spacing: 1px;
+    font-size:19px;
+}
+#mobilenet{
+    letter-spacing: 2px;
+}
+.bottom{
+    color: rgb(254, 254, 254);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Patrick Hand', cursive;
+    background-color: rgb(123, 186, 193);
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color: rgb(167, 92, 167);
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+    margin-top: 15px;
+    background-color: rgb(76, 118, 152);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9{
+    color: white;
+}
+span{
+    color: rgb(74, 96, 123);
+    font-size:20px;
+
+}
+.google_lens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+    font-size:20px;
+}
